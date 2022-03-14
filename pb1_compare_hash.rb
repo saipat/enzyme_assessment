@@ -46,6 +46,15 @@ hash2 = {
 }
 
 puts compare_hash(hash1, hash2);
+# --------------
+hash1 = {
+  a: '1'
+}
+hash2 = {
+
+}
+
+puts compare_hash(hash1, hash2);
 # ---------------
 
 hash1 = {
